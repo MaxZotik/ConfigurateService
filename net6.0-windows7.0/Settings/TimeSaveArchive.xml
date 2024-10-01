@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<SettingsTimeSave>
+	<Level Index="1">
+		<NameLevel>AverageLevel1</NameLevel>
+		<Time>2</Time>
+		<TimeMesuament>час</TimeMesuament>
+		<TimeValue>1</TimeValue>
+		<TimeAverage>день</TimeAverage>
+	</Level>
+	<Level Index="2">
+		<NameLevel>AverageLevel2</NameLevel>
+		<Time>1</Time>
+		<TimeMesuament>день</TimeMesuament>
+		<TimeValue>20</TimeValue>
+		<TimeAverage>минута</TimeAverage>
+	</Level>
+	<Level Index="3">
+		<NameLevel>AverageLevel3</NameLevel>
+		<Time>10</Time>
+		<TimeMesuament>день</TimeMesuament>
+		<TimeValue>3</TimeValue>
+		<TimeAverage>час</TimeAverage>
+	</Level>
+</SettingsTimeSave>

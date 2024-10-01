@@ -1,0 +1,4803 @@
+<?xml version="1.0"?>
+<MVKSettings>
+   <Device Index="1">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8284</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="2">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8286</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="3">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8288</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="4">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8290</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="5">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8292</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="6">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8294</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="7">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8296</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="8">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8298</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>  
+  <Device Index="9">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8300</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="10">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8302</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="11">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8304</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="12">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8306</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="13">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8308</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="14">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8310</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="15">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8312</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="16">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8314</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="17">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8316</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="18">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8318</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="19">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8320</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="20">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8322</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="21">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9308</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="22">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9310</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="23">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9312</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="24">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9314</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="25">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9316</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="26">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9318</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="27">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9320</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="28">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9322</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>   
+  <Device Index="29">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9324</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="30">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9326</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="31">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9328</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="32">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9330</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="33">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9332</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="34">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9334</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="35">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9336</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="36">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9338</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="37">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9340</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="38">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9342</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="39">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9344</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="40">
+    <IPAddress>192.168.8.35</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9346</StartAddress>
+	<NumberMVK>1</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device> 
+  <Device Index="41">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8284</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="42">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8286</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="43">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8288</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="44">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8290</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="45">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8292</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="46">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8294</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="47">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8296</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="48">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8298</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>  
+  <Device Index="49">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8300</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="50">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8302</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="51">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8304</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="52">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8306</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="53">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8308</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="54">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8310</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="55">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8312</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="56">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8314</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="57">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8316</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="58">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8318</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="59">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8320</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="60">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8322</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="61">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8796</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="62">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8798</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="63">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8800</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="64">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8802</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="65">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8802</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="66">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8804</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="67">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8806</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="68">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8808</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>   
+  <Device Index="69">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8810</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="70">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8812</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="71">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8814</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="72">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8816</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="73">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8818</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="74">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8820</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="75">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8822</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="76">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8824</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="77">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8826</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="78">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8828</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="79">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8830</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="80">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8832</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device> 
+  <Device Index="81">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10332</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="82">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10334</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="83">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10336</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="84">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10338</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="85">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10340</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="86">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10342</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="87">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10344</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="88">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10346</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>   
+  <Device Index="89">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10348</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="90">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10350</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="91">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10352</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="92">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10354</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="93">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10356</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="94">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10358</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="95">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10360</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="96">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10362</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="97">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10364</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="98">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10366</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="99">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10368</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="100">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10370</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device> 
+  <Device Index="101">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10844</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="102">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10846</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="103">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10848</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="104">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10850</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="105">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10852</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="106">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10854</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="107">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10856</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="108">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10858</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>   
+  <Device Index="109">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10860</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="110">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10862</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="111">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10864</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="112">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10866</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="113">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10868</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="114">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10870</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="115">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10872</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="116">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10874</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="117">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10876</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="118">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10878</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="119">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10880</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="120">
+    <IPAddress>192.168.8.34</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10882</StartAddress>
+	<NumberMVK>2</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device> 
+  <Device Index="121">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8284</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="122">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8286</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="123">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8288</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="124">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8290</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="125">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8292</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="126">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8294</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="127">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8296</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="128">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8298</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>  
+  <Device Index="129">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8300</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="130">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8302</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="131">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8304</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="132">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8306</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="133">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8308</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="134">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8310</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="135">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8312</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="136">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8314</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="137">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8316</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="138">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8318</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="139">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8320</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="140">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8322</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="141">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8796</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="142">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8798</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="143">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8800</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="144">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8802</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="145">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8802</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="146">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8804</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="147">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8806</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="148">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8808</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>   
+  <Device Index="149">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8810</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="150">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8812</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="151">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8814</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="152">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8816</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="153">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8818</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="154">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8820</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="155">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8822</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="156">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8824</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="157">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8826</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="158">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8828</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="159">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8830</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="160">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8832</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device> 
+  <Device Index="161">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9308</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="162">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9310</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="163">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9312</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="164">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9314</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="165">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9316</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="166">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9318</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="167">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9320</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="168">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9322</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>   
+  <Device Index="169">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9324</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="170">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9326</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="171">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9328</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="172">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9330</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="173">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9332</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="174">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9334</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="175">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9336</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="176">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9338</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="177">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9340</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="178">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9342</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="179">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9344</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="180">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>3</Chanel>
+    <StartAddress>9346</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="181">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10332</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="182">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10334</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="183">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10336</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="184">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10338</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="185">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10340</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="186">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10342</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="187">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10344</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="188">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10346</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>   
+  <Device Index="189">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10348</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="190">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10350</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="191">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10352</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="192">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10354</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="193">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10356</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="194">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10358</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="195">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10360</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="196">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10362</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="197">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10364</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="198">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10366</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="199">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10368</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="200">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10370</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>  
+  <Device Index="201">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10844</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="202">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10846</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="203">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10848</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="204">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10850</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="205">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10852</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="206">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10854</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="207">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10856</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="208">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10858</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>   
+  <Device Index="209">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10860</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="210">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10862</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="211">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10864</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="212">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10866</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="213">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10868</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="214">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10870</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="215">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10872</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="216">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10874</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="217">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10876</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="218">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10878</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="219">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10880</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="220">
+    <IPAddress>192.168.8.33</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10882</StartAddress>
+	<NumberMVK>3</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device> 
+  <Device Index="221">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8284</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="222">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8286</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="223">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8288</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="224">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8290</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="225">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8292</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="226">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8294</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="227">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8296</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="228">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8298</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>  
+  <Device Index="229">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8300</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="230">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8302</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="231">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8304</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="232">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8306</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="233">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8308</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="234">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8310</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="235">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8312</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="236">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8314</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="237">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8316</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="238">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8318</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="239">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8320</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="240">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8322</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device> 
+  <Device Index="241">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8796</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="242">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8798</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="243">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8800</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="244">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8802</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="245">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8802</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="246">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8804</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="247">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8806</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="248">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8808</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>   
+  <Device Index="249">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8810</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="250">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8812</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="251">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8814</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="252">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8816</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="253">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8818</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="254">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8820</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="255">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8822</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="256">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8824</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="257">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8826</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="258">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8828</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="259">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8830</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="260">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8832</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>  
+  <Device Index="261">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10332</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="262">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10334</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="263">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10336</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="264">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10338</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="265">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10340</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="266">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10342</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="267">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10344</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="268">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10346</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>   
+  <Device Index="269">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10348</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="270">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10350</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="271">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10352</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="272">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10354</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="273">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10356</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="274">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10358</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="275">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10360</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="276">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10362</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="277">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10364</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="278">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10366</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="279">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10368</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="280">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10370</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>  
+  <Device Index="281">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10844</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="282">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10846</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="283">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10848</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="284">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10850</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="285">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10852</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="286">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10854</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="287">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10856</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="288">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10858</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>   
+  <Device Index="289">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10860</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="290">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10862</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="291">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10864</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="292">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10866</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="293">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10868</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="294">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10870</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="295">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10872</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="296">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10874</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="297">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10876</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="298">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10878</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="299">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10880</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="300">
+    <IPAddress>192.168.8.32</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10882</StartAddress>
+	<NumberMVK>4</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>  
+  <Device Index="301">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8284</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="302">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8286</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="303">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8288</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="304">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8290</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="305">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8292</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="306">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8294</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="307">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8296</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="308">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8298</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>  
+  <Device Index="309">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8300</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="310">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8302</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="311">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8304</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="312">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8306</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="313">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8308</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="314">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8310</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="315">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8312</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="316">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8314</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="317">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8316</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="318">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8318</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="319">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8320</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="320">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>1</Chanel>
+    <StartAddress>8322</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="321">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8796</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="322">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8798</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="323">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8800</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="324">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8802</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="325">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8802</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="326">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8804</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="327">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8806</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="328">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8808</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>   
+  <Device Index="329">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8810</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="330">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8812</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="331">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8814</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="332">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8816</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="333">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8818</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="334">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8820</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="335">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8822</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="336">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8824</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="337">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8826</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="338">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8828</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="339">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8830</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="340">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>2</Chanel>
+    <StartAddress>8832</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device> 
+  <Device Index="341">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10332</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="342">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10334</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="343">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10336</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="344">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10338</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="345">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10340</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="346">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10342</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="347">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10344</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="348">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10346</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>   
+  <Device Index="349">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10348</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="350">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10350</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="351">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10352</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="352">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10354</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="353">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10356</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="354">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10358</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="355">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10360</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="356">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10362</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="357">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10364</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="358">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10366</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="359">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10368</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="360">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>5</Chanel>
+    <StartAddress>10370</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device> 
+  <Device Index="361">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10844</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="362">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10846</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="363">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10848</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="364">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10850</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="365">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10852</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="366">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10854</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="367">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10856</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="368">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10858</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>   
+  <Device Index="369">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10860</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="370">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10862</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="371">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10864</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="372">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10866</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="373">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10868</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="374">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10870</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="375">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10872</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="376">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10874</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="377">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10876</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="378">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10878</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="379">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10880</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="380">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>6</Chanel>
+    <StartAddress>10882</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device> 
+  <Device Index="381">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>Пик-Фактор</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11356</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="382">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>x-25Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11358</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="383">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11360</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="384">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11362</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="385">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-3000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11364</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="386">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11366</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="387">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11368</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="388">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-2000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11370</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>   
+  <Device Index="389">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11372</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="390">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11374</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="391">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>10-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11376</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="392">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11378</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="393">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11380</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="394">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>2-1000Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11382</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="395">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11384</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="396">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11386</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="397">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-300Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11388</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="398">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброускорение</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11390</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="399">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброскорость</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11392</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+  <Device Index="400">
+    <IPAddress>192.168.8.31</IPAddress>
+    <Endians>0123</Endians>
+    <Parameters>0.8-150Гц</Parameters>
+    <Type>СКЗ виброперемещение</Type>
+    <Chanel>7</Chanel>
+    <StartAddress>11394</StartAddress>
+	<NumberMVK>5</NumberMVK>
+	<ModeWork>0</ModeWork>
+	<CodeWork>0</CodeWork>
+	<Equipment>1</Equipment>
+  </Device>
+</MVKSettings>

@@ -1,0 +1,50 @@
+﻿<Page x:Class="ConfigurateService.Pages.mainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ConfigurateService.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="400"
+      Title="mainPage">
+    <Grid>
+        <StackPanel>
+            <Button x:Name="btnDBSettings">
+                <WrapPanel>
+                    <Image Source="/Resources/settings.png" Style="{StaticResource Img}" />
+                    <TextBlock Text="Настройка базы"/>
+                </WrapPanel>
+            </Button>
+            <Button x:Name="btnSetting">
+                <WrapPanel>
+                    <Image Source="/Resources/settings.png" Style="{StaticResource Img}" />
+                    <TextBlock Text="Настройка устройcтв"/>
+                </WrapPanel>
+            </Button>
+            <Button x:Name="btnStopService">
+                <WrapPanel>
+                    <Image Source="/Resources/settings.png" Style="{StaticResource Img}" />
+                    <TextBlock Text="Управление службой"/>
+                </WrapPanel>
+            </Button>
+            <Button x:Name="btnServerSettings">
+                <WrapPanel>
+                    <Image Source="/Resources/settings.png" Style="{StaticResource Img}" />
+                    <TextBlock Text="Настройка подключения"/>
+                </WrapPanel>
+            </Button>
+            <Button x:Name="btnAvg">
+                <WrapPanel>
+                    <Image Source="/Resources/settings.png" Style="{StaticResource Img}" />
+                    <TextBlock Text="Прореживание"/>
+                </WrapPanel>
+            </Button>
+            <Button x:Name="btnLogs">
+                <WrapPanel>
+                    <Image Source="/Resources/settings.png" Style="{StaticResource Img}" />
+                    <TextBlock Text="Просмотреть логи"/>
+                </WrapPanel>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Page>

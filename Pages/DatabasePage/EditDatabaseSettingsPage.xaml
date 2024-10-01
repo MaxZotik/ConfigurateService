@@ -1,0 +1,61 @@
+﻿<Page x:Class="ConfigurateService.Pages.DatabasePage.EditDatabaseSettingsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ConfigurateService.Pages.DatabasePage"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="400"
+      Title="EditDatabaseSettingsPage">
+
+    <Grid>
+        <Grid Grid.Row="1" Panel.ZIndex="-1" Background="FloralWhite"/>
+        <StackPanel>
+            <WrapPanel>
+                <TextBlock Text="Наименование CУБД:" Width="165"/>
+                <ComboBox Name="cmbDatabase" Margin="32 0 0 0" />
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Имя сервера:" Width="165"/>
+                <TextBox Name="txbServer"/>
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Название БД:" Width="165"/>
+                <ComboBox Name="cmbDB" Margin="32 0 0 0" IsEditable="True" IsReadOnly="False"/>
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Логин:" Width="165"/>
+                <TextBox Name="txbLogin" Margin="32 0 0 0"/>
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Пароль:" Width="165"/>
+                <PasswordBox Name="txbPsw"/>
+            </WrapPanel>
+            <CheckBox Name="chkActive" Content="Установить БД в статус 'active'"/>
+            <Button Name="btnTest" Width="300">
+                <WrapPanel>
+                    <Image Source="/Resources/test.png" Style="{StaticResource Img}"/>
+                    <TextBlock Text="Проверить соединение с СУБД"/>
+                </WrapPanel>
+            </Button>
+            <Button Name="btnCheck" Width="300">
+                <WrapPanel>
+                    <Image Source="/Resources/test.png" Style="{StaticResource Img}"/>
+                    <TextBlock Text="Проверить установку компонентов"/>
+                </WrapPanel>
+            </Button>
+            <Button Name="btnConfigSave" Width="300">
+                <WrapPanel>
+                    <Image Source="/Resources/report.png" Style="{StaticResource Img}"/>
+                    <TextBlock Text="Сохранить настройки БД"/>
+                </WrapPanel>
+            </Button>
+            <Button Name="btnInstall" Width="300">
+                <WrapPanel>
+                    <Image Source="/Resources/report.png" Style="{StaticResource Img}"/>
+                    <TextBlock Text="Установить БД и компоненты"/>
+                </WrapPanel>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Page>

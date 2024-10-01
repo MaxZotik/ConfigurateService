@@ -1,0 +1,38 @@
+﻿<Page x:Class="ConfigurateService.Pages.servicePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ConfigurateService.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="400"
+      Title="servicePage">
+    <Grid>
+        <StackPanel>
+            <Button x:Name="btnServiсeStop">
+                <WrapPanel>
+                    <Image Source="/Resources/settings.png" Style="{StaticResource Img}" />
+                    <TextBlock Text="Отключить службу"/>
+                </WrapPanel>
+            </Button>
+            <Button x:Name="btnServiсeStart">
+                <WrapPanel>
+                    <Image Source="/Resources/settings.png" Style="{StaticResource Img}" />
+                    <TextBlock Text="Включить службу"/>
+                </WrapPanel>
+            </Button>
+            <Button x:Name="btnServiceInstall">
+                <WrapPanel>
+                    <Image Source="/Resources/settings.png" Style="{StaticResource Img}" />
+                    <TextBlock Text="Установить службу"/>
+                </WrapPanel>
+            </Button>
+            <Button x:Name="btnServiceDelete">
+                <WrapPanel>
+                    <Image Source="/Resources/settings.png" Style="{StaticResource Img}" />
+                    <TextBlock Text="Удалить службу"/>
+                </WrapPanel>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,65 @@
+﻿<Page x:Class="ConfigurateService.Pages.editPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ConfigurateService.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="400"
+      Title="editPage">
+    <Grid>
+        <Grid Grid.Row="1" Panel.ZIndex="-1" Background="FloralWhite"/>
+        <StackPanel>
+            <WrapPanel>
+                <TextBlock Text="IP адрес устройства:" Width="185"/>
+                <TextBox x:Name="tbxAddress" Margin="7 0 0 0"/>
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Канал МВК:" Width="185"/>
+                <TextBox x:Name="tbxChanel" Margin="7 0 0 0"/>
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Номер МВК:" Width="185"/>
+                <TextBox x:Name="tbxNumber" Margin="7 0 0 0"/>
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Номер оборудования:" Width="185"/>
+                <TextBox x:Name="tbxEquipment" Margin="7 0 0 0"/>
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Название оборудования:" Width="185"/>
+                <TextBox x:Name="tbxNameEquipment" Margin="7 0 0 0"/>
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Название в БД DREAM:" Width="185"/>
+                <TextBox x:Name="tbxDreamChannelName" Margin="7 0 0 0"/>
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Полоса:" Width="185"/>
+                <ComboBox Name="cmbFrequency" Margin="7 0 0 0 "/>
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Тип:" Width="185"/>
+                <ComboBox Name="cmbType" Margin="7 0 0 0 "/>
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Чтение байт:" Width="185"/>
+                <ComboBox Name="cmbEndians" Margin="7 0 0 0 "/>
+            </WrapPanel>
+            <WrapPanel Grid.Row="2" HorizontalAlignment="Center">
+                <Button x:Name="btnPing" Width="170">
+                    <WrapPanel>
+                        <Image Source="/Resources/report.png" Style="{StaticResource Img}"/>
+                        <TextBlock Text="Пинг"/>
+                    </WrapPanel>
+                </Button>
+                <Button x:Name="btnSave" Width="170">
+                <WrapPanel>
+                    <Image Source="/Resources/report.png" Style="{StaticResource Img}"/>
+                    <TextBlock Text="Сохранить"/>
+                </WrapPanel>
+                </Button>
+            </WrapPanel>
+        </StackPanel>
+    </Grid>
+</Page>

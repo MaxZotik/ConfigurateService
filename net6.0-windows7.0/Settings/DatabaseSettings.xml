@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Setting>
+  <Version name="MSSQL">
+    <ActiveDatabase>active</ActiveDatabase>
+    <Server>.\DREAM</Server>
+    <Database>MVK_Archive</Database>
+    <User>sa</User>
+    <Password>Basepwd#0000</Password>
+  </Version>
+</Setting>
