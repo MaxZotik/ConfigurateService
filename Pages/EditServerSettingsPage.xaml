@@ -12,6 +12,14 @@
         <Grid Grid.Row="1" Panel.ZIndex="-1" Background="FloralWhite"/>
         <StackPanel>
             <WrapPanel>
+                <TextBlock Text="Выберите CУБД:" Width="150"/>
+                <ComboBox Name="cmbDatabase" Margin="20 0 0 0" />
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Выберите БД:" Width="150"/>
+                <ComboBox Name="cmbBDname" Margin="20 0 0 0" />
+            </WrapPanel>
+            <WrapPanel>
                 <TextBlock Text="IP адрес:" Width="160"/>
                 <TextBox x:Name="tbxIP" Margin="10 0 0 0"/>
             </WrapPanel>

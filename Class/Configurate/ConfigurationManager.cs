@@ -445,9 +445,9 @@ namespace ConfigurateService.Class.Configurate
         /// </summary>
         /// <param name="serverSettings">Объект настроек подключения</param>
         /// <returns>Возращает True файл записан в файл</returns>
-        internal void ServerSettingsSave(ServerSettings serverSettings)
+        internal void ServerSettingsSave(ServerSettings serverSettings, string nameDb)
         {
-            path = dirSettings + "ServerSettings.xml";
+            path = $@"{dirSettings}{nameDb}\ServerSettings.xml";
 
             if (File.Exists(path) == true)
                 File.Delete(path);
@@ -475,9 +475,9 @@ namespace ConfigurateService.Class.Configurate
         /// Метод считывает настройки подключения к серверу
         /// </summary>
         /// <returns>Возвращает оюъект нстроек подключения к серверу<returns>
-        internal ServerSettings? ServerSettingsLoad()
+        internal ServerSettings? ServerSettingsLoad(string nameDb)
         {
-            path = dirSettings + "ServerSettings.xml";
+            path = $@"{dirSettings}{nameDb}\ServerSettings.xml";
 
             if (File.Exists(path))
             {
